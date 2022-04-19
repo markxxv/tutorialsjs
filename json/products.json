@@ -1,1 +1,47 @@
-
+[
+    {
+        name: "🍊 Orange",
+        price: 2,
+        categories: ['food', 'fruits']
+    },
+    {
+        name: "🍏 Apple",
+        price: 1,
+        categories: ['food', 'fruits']
+    },
+    {
+        name: "🍒 Cherry",
+        price: 1,
+        categories: ['food', 'fruits']
+    },
+    {
+        name: "🥔 Potato",
+        price: 3,
+        categories: ['food', 'vegetable']
+    },
+    {
+        name: "🧄 Garlic",
+        price: 2,
+        categories: ['food', 'vegetable']
+    },
+    {
+        name: "🧼 Soap",
+        price: 5,
+        categories: ['household chemicals', 'hygiene']
+    },
+    {
+        name: "🧼 Shower Gel",
+        price: 11,
+        categories: ['household chemicals', 'douche']
+    },
+    {
+        name: "🧴 Shampoo",
+        price: 20,
+        categories: ['household chemicals', 'douche']
+    },
+    {
+        name: "🍶 Bleach",
+        price: 14,
+        categories: ['household chemicals', 'сleaning']
+    }
+]
