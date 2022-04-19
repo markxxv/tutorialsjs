@@ -1,47 +1,114 @@
 [
     {
-        name: "🍊 Orange",
-        price: 2,
-        categories: ['food', 'fruits']
+        "name": "🍊 Orange",
+        "price": 2,
+        "categories": [
+            {"name": "Food"},
+            {"name": "Fruits"}
+        ]
     },
     {
-        name: "🍏 Apple",
-        price: 1,
-        categories: ['food', 'fruits']
+        "name": "🍏 Apple",
+        "price": 1,
+        "categories": [
+            {"name": "Food"},
+            {"name": "Fruits"}
+        ]
     },
     {
-        name: "🍒 Cherry",
-        price: 1,
-        categories: ['food', 'fruits']
+        "name": "🍒 Cherry",
+        "price": 1,
+        "categories": [
+            {"name": "Food"},
+            {"name": "Fruits"}
+        ]
     },
     {
-        name: "🥔 Potato",
-        price: 3,
-        categories: ['food', 'vegetable']
+        "name": "🥔 Potato",
+        "price": 3,
+        "categories": [
+            {"name": "Food"},
+            {"name": "vegetable"}
+        ]
     },
     {
-        name: "🧄 Garlic",
-        price: 2,
-        categories: ['food', 'vegetable']
+        "name": "🧄 Garlic",
+        "price": 2,
+        "categories": [
+            {"name": "Food"},
+            {"name": "vegetable"}
+        ]
     },
     {
-        name: "🧼 Soap",
-        price: 5,
-        categories: ['household chemicals', 'hygiene']
+        "name": "🧅 Onion",
+        "price": 2,
+        "categories": [
+            {"name": "Food"},
+            {"name": "vegetable"}
+        ]
     },
     {
-        name: "🧼 Shower Gel",
-        price: 11,
-        categories: ['household chemicals', 'douche']
+        "name": "🌽 Corn",
+        "price": 4,
+        "categories": [
+            {"name": "Food"},
+            {"name": "vegetable"}
+        ]
     },
     {
-        name: "🧴 Shampoo",
-        price: 20,
-        categories: ['household chemicals', 'douche']
+        "name": "🍅 Tomato",
+        "price": 4,
+        "categories": [
+            {"name": "Food"},
+            {"name": "vegetable"}
+        ]
     },
     {
-        name: "🍶 Bleach",
-        price: 14,
-        categories: ['household chemicals', 'сleaning']
+        "name": "🍆 Eggplant",
+        "price": 2,
+        "categories": [
+            {"name": "Food"},
+            {"name": "vegetable"}
+        ]
+    },
+    {
+        "name": "🥒 Cucumber",
+        "price": 1,
+        "categories": [
+            {"name": "Food"},
+            {"name": "vegetable"}
+        ]
+    },
+    {
+        "name": "🧼 Soap",
+        "price": 5,
+        "categories": [
+            {"name": "Household Chemicals"},
+            {"name": "Hygiene"}
+        ]
+    },
+    {
+        "name": "🧼 Shower Gel",
+        "price": 11,
+        "categories": [
+            {"name": "Household Chemicals"},
+            {"name": "Douche"}
+        ]
+    },
+    {
+        "name": "🧴 Shampoo",
+        "price": 20,
+        "categories": [
+            {"name": "Household Chemicals"},
+            {"name": "Douche"}
+        ]
+    },
+    {
+        "name": "🍶 Bleach",
+        "price": 14,
+        "categories": [
+            {"name": "Household Chemicals"},
+            {"name": "Cleaning"}
+        ]
     }
 ]
