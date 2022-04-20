@@ -80,6 +80,110 @@
         ]
     },
     {
+        "name": "🍇 Grapes",
+        "price": 2,
+        "categories": [
+            {"name": "Food"},
+            {"name": "Fruits"}
+        ]
+    },
+    {
+        "name": "🥦 Broccoli",
+        "price": 4,
+        "categories": [
+            {"name": "Food"},
+            {"name": "vegetable"}
+        ]
+    },
+    {
+        "name": "🥖 Baguette",
+        "price": 1,
+        "categories": [
+            {"name": "Food"},
+            {"name": "Bakery"}
+        ]
+    },
+    {
+        "name": "🥑 Avocado",
+        "price": 6,
+        "categories": [
+            {"name": "Food"},
+            {"name": "Fruits"}
+        ]
+    },
+    {
+        "name": "🥕 Carrot",
+        "price": 2,
+        "categories": [
+            {"name": "Food"},
+            {"name": "vegetable"}
+        ]
+    },
+    {
+        "name": "🫑 Pepper",
+        "price": 4,
+        "categories": [
+            {"name": "Food"},
+            {"name": "vegetable"}
+        ]
+    },
+    {
+        "name": "🌶 Chilli Pepper",
+        "price": 3,
+        "categories": [
+            {"name": "Food"},
+            {"name": "vegetable"}
+        ]
+    },
+    {
+        "name": "🥝 Kiwi",
+        "price": 1,
+        "categories": [
+            {"name": "Food"},
+            {"name": "Fruits"}
+        ]
+    },
+    {
+        "name": "🍓 Strawberry",
+        "price": 5,
+        "categories": [
+            {"name": "Food"},
+            {"name": "Fruits"}
+        ]
+    },
+    {
+        "name": "🫐 Blueberry",
+        "price": 3,
+        "categories": [
+            {"name": "Food"},
+            {"name": "Fruits"}
+        ]
+    },
+    {
+        "name": "🍌 Banana",
+        "price": 2,
+        "categories": [
+            {"name": "Food"},
+            {"name": "Fruits"}
+        ]
+    },
+    {
+        "name": "🍉 Watermelon",
+        "price": 7,
+        "categories": [
+            {"name": "Food"},
+            {"name": "Fruits"}
+        ]
+    },
+    {
+        "name": "🥭 Mango",
+        "price": 2,
+        "categories": [
+            {"name": "Food"},
+            {"name": "Fruits"}
+        ]
+    },
+    {
         "name": "🧼 Soap",
         "price": 5,
         "categories": [
