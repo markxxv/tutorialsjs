@@ -28,7 +28,7 @@
         "price": 3,
         "categories": [
             {"name": "Food"},
-            {"name": "vegetable"}
+            {"name": "Vegetable"}
         ]
     },
     {
@@ -36,7 +36,7 @@
         "price": 2,
         "categories": [
             {"name": "Food"},
-            {"name": "vegetable"}
+            {"name": "Vegetable"}
         ]
     },
     {
@@ -44,7 +44,7 @@
         "price": 2,
         "categories": [
             {"name": "Food"},
-            {"name": "vegetable"}
+            {"name": "Vegetable"}
         ]
     },
     {
@@ -52,7 +52,7 @@
         "price": 4,
         "categories": [
             {"name": "Food"},
-            {"name": "vegetable"}
+            {"name": "Vegetable"}
         ]
     },
     {
@@ -60,7 +60,7 @@
         "price": 4,
         "categories": [
             {"name": "Food"},
-            {"name": "vegetable"}
+            {"name": "Vegetable"}
         ]
     },
     {
@@ -68,7 +68,7 @@
         "price": 2,
         "categories": [
             {"name": "Food"},
-            {"name": "vegetable"}
+            {"name": "Vegetable"}
         ]
     },
     {
@@ -76,7 +76,7 @@
         "price": 1,
         "categories": [
             {"name": "Food"},
-            {"name": "vegetable"}
+            {"name": "Vegetable"}
         ]
     },
     {
@@ -92,7 +92,7 @@
         "price": 4,
         "categories": [
             {"name": "Food"},
-            {"name": "vegetable"}
+            {"name": "Vegetable"}
         ]
     },
     {
@@ -116,7 +116,7 @@
         "price": 2,
         "categories": [
             {"name": "Food"},
-            {"name": "vegetable"}
+            {"name": "Vegetable"}
         ]
     },
     {
@@ -124,7 +124,7 @@
         "price": 4,
         "categories": [
             {"name": "Food"},
-            {"name": "vegetable"}
+            {"name": "Vegetable"}
         ]
     },
     {
@@ -132,7 +132,7 @@
         "price": 3,
         "categories": [
             {"name": "Food"},
-            {"name": "vegetable"}
+            {"name": "Vegetable"}
         ]
     },
     {
