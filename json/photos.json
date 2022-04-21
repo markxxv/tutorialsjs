@@ -1,5 +1,5 @@
-{
-  "gallery": [
+[
+
     {
       "id": 0,
       "name": "Cobweb",
@@ -118,4 +118,3 @@
       "src": "https://raw.githubusercontent.com/markxxv/tutorialsjs/main/json/gallery/gallery-9.jpg"
     }
   ]
-}
